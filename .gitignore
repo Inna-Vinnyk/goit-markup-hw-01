@@ -1,4 +1,7 @@
 secret.txt
+
+.vscode
+
 # Logs
 logs
 *.log
